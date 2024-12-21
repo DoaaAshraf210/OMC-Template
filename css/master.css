@@ -348,6 +348,7 @@ ul li{
   width: 200px; 
   height: 200px;  
   border-radius: 50%;
+    object-fill:cover
 }
 .our-services .box-content p {
     line-height: 1.5;
